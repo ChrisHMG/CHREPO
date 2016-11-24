@@ -1,0 +1,8 @@
+C:\PRIVAT\SpPlan\SpPlan\bin\Release\SpPlan.exe.config
+C:\PRIVAT\SpPlan\SpPlan\bin\Release\SpPlan.exe
+C:\PRIVAT\SpPlan\SpPlan\bin\Release\SpPlan.pdb
+C:\PRIVAT\SpPlan\SpPlan\obj\Release\SpPlan.Form1.resources
+C:\PRIVAT\SpPlan\SpPlan\obj\Release\SpPlan.Properties.Resources.resources
+C:\PRIVAT\SpPlan\SpPlan\obj\Release\SpPlan.csproj.GenerateResource.Cache
+C:\PRIVAT\SpPlan\SpPlan\obj\Release\SpPlan.exe
+C:\PRIVAT\SpPlan\SpPlan\obj\Release\SpPlan.pdb

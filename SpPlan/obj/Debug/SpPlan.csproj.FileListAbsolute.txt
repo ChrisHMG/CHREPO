@@ -1,0 +1,9 @@
+C:\PRIVAT\SpPlan\SpPlan\bin\Debug\SpPlan.exe.config
+C:\PRIVAT\SpPlan\SpPlan\bin\Debug\SpPlan.exe
+C:\PRIVAT\SpPlan\SpPlan\bin\Debug\SpPlan.pdb
+C:\PRIVAT\SpPlan\SpPlan\obj\Debug\SpPlan.csprojResolveAssemblyReference.cache
+C:\PRIVAT\SpPlan\SpPlan\obj\Debug\SpPlan.Form1.resources
+C:\PRIVAT\SpPlan\SpPlan\obj\Debug\SpPlan.Properties.Resources.resources
+C:\PRIVAT\SpPlan\SpPlan\obj\Debug\SpPlan.csproj.GenerateResource.Cache
+C:\PRIVAT\SpPlan\SpPlan\obj\Debug\SpPlan.exe
+C:\PRIVAT\SpPlan\SpPlan\obj\Debug\SpPlan.pdb
